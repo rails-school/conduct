@@ -1,4 +1,4 @@
-# Charlottesville Meetup/Group Code of Conduct
+# RailsSchool Code of Conduct
 
 ## Our Goal
 
@@ -20,10 +20,19 @@ Contributors to this Code of Conduct are [listed here](https://github.com/cville
 
 ## Useful Phone Numbers
 
+###Charolettesville
+
 * **Yellow Cab:** Call 434-295-4131 or text address to 434-202-5525.
 * **Non-Emergency Police:** 434-970-3280.
 * **Sexual Assault 24-Hour Hotline:** 434-977-7273.
 * **UVA Health System Emergency Department:** 434-924-2231.
+
+###San Francisco
+
+* **Yellow Cab:** Call 415-333-3333 or use the Lyft or Flywheel app on your smartphone.
+* **Non-Emergency Police:** 415-553-0123.
+* **Sexual Assault Hotline (Courtesy San Francisco Woman Against Rape):** 415-861-2024.
+* **Trauma Recovery Center:** 415-905-5050.
 
 ---
 
