@@ -1,8 +1,8 @@
 # Charlottesville Meetup/Group Code of Conduct
 
-## The Short Version
+## Our Goal
 
-We are dedicated to providing an inclusive and harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or socioeconomic status. We welcome participation and do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. Our anti-harassment policy can be found at [github.com/cville/conduct](https://github.com/cville/conduct).
+Rails School is committed to inclusiveness and will not tolerate harassment. We believe requiring our participants to adhere to an explicit Code of Conduct is one step toward creating the kind of positive environment where we can come together to learn and teach.
 
 ---
 
